@@ -1,5 +1,4 @@
-### Hi there 👋
-
+⚡ Here be dreams. ⚡
 <!--
 **projection-org/projection-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
